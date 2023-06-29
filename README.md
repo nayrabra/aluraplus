@@ -6,7 +6,7 @@ Bem vindo ao meu projeto, que se trata de uma página fictícia, em que se prop�
 | -------------------- | ----------------------------------------|
 | :sparkles: Nome      | **Alura Plus**                          |
 | :label: Tecnologias  | HTML, CSS                               |
-| :rocket: URL         | https://aluraplus-flax-kappa.vercel.app/|
+| :rocket: URL         | https://aluraplus-nayrabra.vercel.app/  |
 | 🧰 Propriedades      | Flex-box, Grid                          |
 | 💻 Responsividade    | Celular, Tablet e Desktop               |
 
